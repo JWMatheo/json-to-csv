@@ -1,0 +1,1001 @@
+NFT #;Type;Hotel;Place;Experience;Night;Surprise
+0;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+1;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+2;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+3;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+4;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+5;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+6;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+7;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+8;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+9;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+10;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+11;Silver - Very rare; LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;5;Yes
+12;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+13;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+14;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+15;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+16;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+17;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+18;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+19;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+20;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+21;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+22;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+23;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+24;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+25;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+26;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+27;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+28;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+29;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+30;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+31;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+32;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+33;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+34;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+35;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+36;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+37;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+38;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+39;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+40;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+41;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+42;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+43;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+44;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+45;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+46;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+47;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+48;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+49;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+50;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+51;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+52;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+53;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+54;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+55;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+56;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+57;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+58;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+59;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+60;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+61;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+62;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+63;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+64;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+65;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+66;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+67;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+68;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+69;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+70;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+71;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+72;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+73;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+74;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+75;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+76;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+77;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+78;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+79;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+80;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+81;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+82;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+83;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+84;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+85;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+86;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+87;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+88;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+89;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+90;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+91;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+92;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+93;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+94;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+95;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+96;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+97;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+98;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+99;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+100;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+101;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+102;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+103;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+104;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+105;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+106;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+107;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+108;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+109;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+110;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+111;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+112;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+113;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+114;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+115;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+116;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+117;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+118;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+119;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+120;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+121;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+122;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+123;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+124;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+125;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+126;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+127;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+128;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+129;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+130;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+131;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+132;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+133;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+134;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+135;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+136;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+137;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+138;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+139;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+140;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+141;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+142;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+143;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+144;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+145;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+146;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+147;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+148;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+149;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+150;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+151;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+152;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+153;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+154;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+155;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+156;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+157;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+158;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+159;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+160;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+161;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+162;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+163;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+164;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+165;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+166;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+167;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+168;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+169;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+170;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+171;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+172;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+173;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+174;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+175;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+176;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+177;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+178;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+179;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+180;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+181;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+182;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+183;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+184;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+185;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+186;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+187;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+188;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+189;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+190;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+191;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+192;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+193;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+194;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+195;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+196;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+197;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+198;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+199;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+200;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+201;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+202;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+203;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+204;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+205;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+206;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+207;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+208;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+209;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+210;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+211;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+212;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+213;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+214;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+215;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+216;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+217;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+218;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+219;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+220;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+221;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+222;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+223;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+224;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+225;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+226;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+227;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+228;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+229;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+230;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+231;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+232;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+233;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+234;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+235;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+236;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+237;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+238;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+239;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+240;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+241;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+242;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+243;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+244;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+245;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+246;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+247;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+248;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+249;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+250;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+251;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+252;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+253;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+254;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+255;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+256;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+257;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+258;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+259;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+260;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+261;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+262;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+263;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+264;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+265;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+266;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+267;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+268;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+269;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+270;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+271;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+272;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+273;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+274;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+275;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+276;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+277;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+278;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+279;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+280;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+281;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+282;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+283;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+284;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+285;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+286;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+287;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+288;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+289;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+290;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+291;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+292;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+293;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+294;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+295;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+296;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+297;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+298;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+299;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+300;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+301;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+302;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+303;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+304;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+305;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+306;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+307;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+308;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+309;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+310;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+311;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+312;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+313;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+314;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+315;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+316;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+317;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+318;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+319;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+320;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+321;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+322;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+323;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+324;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+325;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+326;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+327;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+328;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+329;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+330;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+331;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+332;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+333;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+334;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+335;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+336;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+337;Silver - Very rare; LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;5;Yes
+338;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+339;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+340;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+341;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+342;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+343;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+344;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+345;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+346;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+347;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+348;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+349;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+350;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+351;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+352;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+353;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+354;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+355;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+356;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+357;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+358;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+359;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+360;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+361;Silver - Very rare; LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;5;Yes
+362;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+363;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+364;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+365;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+366;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+367;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+368;Silver - Very rare; LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;5;Yes
+369;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+370;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+371;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+372;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+373;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+374;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+375;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+376;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+377;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+378;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+379;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+380;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+381;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+382;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+383;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+384;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+385;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+386;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+387;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+388;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+389;Gold - Very rare;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;5;Yes
+390;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+391;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+392;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+393;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+394;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+395;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+396;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+397;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+398;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+399;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+400;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+401;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+402;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+403;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+404;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+405;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+406;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+407;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+408;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+409;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+410;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+411;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+412;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+413;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+414;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+415;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+416;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+417;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+418;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+419;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+420;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+421;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+422;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+423;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+424;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+425;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+426;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+427;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+428;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+429;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+430;Gold - Very rare;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;5;Yes
+431;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+432;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+433;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+434;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+435;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+436;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+437;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+438;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+439;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+440;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+441;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+442;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+443;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+444;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+445;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+446;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+447;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+448;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+449;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+450;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+451;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+452;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+453;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+454;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+455;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+456;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+457;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+458;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+459;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+460;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+461;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+462;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+463;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+464;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+465;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+466;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+467;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+468;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+469;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+470;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+471;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+472;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+473;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+474;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+475;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+476;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+477;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+478;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+479;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+480;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+481;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+482;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+483;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+484;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+485;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+486;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+487;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+488;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+489;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+490;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+491;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+492;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+493;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+494;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+495;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+496;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+497;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+498;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+499;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+500;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+501;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+502;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+503;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+504;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+505;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+506;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+507;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+508;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+509;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+510;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+511;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+512;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+513;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+514;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+515;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+516;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+517;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+518;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+519;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+520;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+521;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+522;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+523;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+524;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+525;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+526;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+527;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+528;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+529;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+530;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+531;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+532;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+533;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+534;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+535;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+536;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+537;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+538;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+539;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+540;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+541;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+542;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+543;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+544;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+545;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+546;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+547;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+548;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+549;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+550;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+551;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+552;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+553;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+554;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+555;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+556;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+557;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+558;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+559;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+560;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+561;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+562;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+563;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+564;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+565;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+566;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+567;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+568;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+569;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+570;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+571;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+572;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+573;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+574;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+575;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+576;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+577;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+578;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+579;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+580;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+581;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+582;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+583;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+584;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+585;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+586;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+587;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+588;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+589;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+590;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+591;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+592;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+593;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+594;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+595;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+596;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+597;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+598;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+599;Gold - Very rare;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;5;Yes
+600;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+601;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+602;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+603;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+604;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+605;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+606;Gold - Very rare;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;5;Yes
+607;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+608;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+609;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+610;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+611;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+612;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+613;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+614;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+615;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+616;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+617;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+618;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+619;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+620;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+621;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+622;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+623;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+624;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+625;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+626;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+627;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+628;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+629;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+630;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+631;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+632;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+633;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+634;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+635;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+636;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+637;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+638;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+639;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+640;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+641;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+642;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+643;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+644;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+645;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+646;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+647;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+648;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+649;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+650;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+651;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+652;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+653;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+654;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+655;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+656;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+657;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+658;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+659;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+660;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+661;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+662;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+663;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+664;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+665;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+666;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+667;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+668;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+669;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+670;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+671;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+672;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+673;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+674;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+675;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+676;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+677;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+678;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+679;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+680;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+681;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+682;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+683;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+684;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+685;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+686;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+687;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+688;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+689;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+690;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+691;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+692;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+693;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+694;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+695;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+696;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+697;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+698;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+699;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+700;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+701;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+702;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+703;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+704;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+705;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+706;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+707;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+708;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+709;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+710;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+711;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+712;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+713;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+714;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+715;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+716;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+717;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+718;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+719;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+720;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+721;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+722;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+723;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+724;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+725;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+726;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+727;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+728;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+729;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+730;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+731;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+732;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+733;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+734;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+735;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+736;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+737;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+738;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+739;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+740;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+741;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+742;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+743;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+744;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+745;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+746;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+747;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+748;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+749;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+750;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+751;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+752;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+753;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+754;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+755;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+756;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+757;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+758;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+759;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+760;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+761;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+762;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+763;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+764;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+765;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+766;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+767;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+768;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+769;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+770;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+771;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+772;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+773;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+774;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+775;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+776;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+777;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+778;Silver - Very rare; LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;5;Yes
+779;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+780;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+781;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+782;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+783;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+784;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+785;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+786;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+787;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+788;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+789;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+790;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+791;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+792;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+793;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+794;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+795;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+796;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+797;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+798;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+799;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+800;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+801;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+802;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+803;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+804;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+805;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+806;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+807;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+808;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+809;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+810;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+811;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+812;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+813;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+814;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+815;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+816;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+817;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+818;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+819;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+820;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+821;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+822;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+823;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+824;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+825;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+826;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+827;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+828;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+829;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+830;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+831;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+832;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+833;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+834;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+835;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+836;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+837;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+838;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+839;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+840;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+841;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+842;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+843;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+844;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+845;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+846;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+847;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+848;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+849;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+850;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+851;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+852;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+853;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+854;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+855;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+856;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+857;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+858;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+859;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+860;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+861;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+862;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+863;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+864;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+865;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+866;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+867;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+868;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+869;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+870;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+871;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+872;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+873;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+874;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+875;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+876;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+877;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+878;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+879;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+880;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+881;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+882;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+883;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+884;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+885;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+886;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+887;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+888;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+889;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+890;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+891;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+892;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+893;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+894;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+895;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+896;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+897;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+898;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+899;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+900;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+901;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+902;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+903;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+904;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+905;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+906;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+907;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+908;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+909;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+910;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+911;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+912;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+913;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+914;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+915;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+916;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+917;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+918;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+919;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+920;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+921;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+922;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+923;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+924;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+925;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+926;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+927;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+928;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+929;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+930;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+931;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+932;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+933;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+934;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+935;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+936;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+937;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+938;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+939;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+940;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+941;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+942;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+943;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+944;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+945;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+946;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+947;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+948;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+949;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+950;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+951;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+952;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+953;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+954;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+955;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+956;Gold - Very rare;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;5;Yes
+957;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+958;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+959;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+960;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+961;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+962;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+963;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+964;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+965;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+966;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+967;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+968;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+969;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+970;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+971;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+972;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+973;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+974;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+975;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+976;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+977;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+978;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+979;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+980;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+981;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+982;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+983;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+984;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+985;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+986;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+987;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+988;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+989;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+990;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+991;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+992;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+993;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+994;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+995;Standard;LUX* Le Morne;Mauritius;Private dolphin swimming trip;2;Yes
+996;Standard;LUX* Grand Baie;Mauritius;Rooftop over the Indian Ocean all to yourself;1;Yes
+997;Standard;LUX* Grand Gaube;Mauritius;Traditional pirogue boating experience to an islet;2;Yes
+998;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
+999;Standard;LUX* South Ari Atoll;Maldives;Private whale shark trip with a Marine Biologist;1;Yes
